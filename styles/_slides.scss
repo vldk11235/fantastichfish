@@ -1,0 +1,32 @@
+// .swiper-slide :nth-child(1){
+//     background-image: 
+//     url('images\fish_1.webp');
+// }
+
+
+    
+.slide1 {
+
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppjyCZSuDBvzCAPoezd3esNk15kSkDZCXeQ&usqp=CAU');
+   
+}
+.slide2 {
+ background-image: url('https://image.cnbcfm.com/api/v1/image/105473010-1537987843171fish.jpg?v=1537988203');
+}
+
+.slide3 {
+background-image: url('https://images.thefishsite.com/fish/legacy/files/AdobeStock_24063054.jpeg');
+
+}
+
+.swiper-slide{
+   background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+}
+    

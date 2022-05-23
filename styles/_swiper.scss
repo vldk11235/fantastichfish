@@ -1,0 +1,21 @@
+.swiper {
+ 
+  width: auto;
+  height: 700px;
+
+}
+
+// .swiper-button-prev::after,
+// .swiper-button-next::after{
+//   color:rgba(50, 127, 175, 0.605) ;
+//   font-size: 80px;
+// }
+.swiper-pagination-bullet{
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  font-size: 14px;
+  // color: #5299D3;
+  background-color: #5299D3;
+
+}

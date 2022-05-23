@@ -1,0 +1,14 @@
+.item {
+    height: 250px;
+    width: 200px;
+    margin: 5px;
+}
+
+.container {
+
+    display: flex;
+    margin-top: 25px;
+    justify-content: space-around;
+    align-items: center;
+
+}
