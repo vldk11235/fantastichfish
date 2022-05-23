@@ -97,6 +97,12 @@ footer {
   padding: 0;
 }
 
+.container {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 .swiper {
   width: auto;
   height: 700px;
@@ -203,37 +209,20 @@ button:hover {
   background-color: rgba(52, 112, 203, 0.8);
 }
 
-.item {
-  height: 250px;
-  width: 200px;
-  margin: 5px;
-}
-
 .container {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  margin-top: 25px;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
 }
 
 .block-2 {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  -ms-flex-preferred-size: 30%;
-      flex-basis: 30%;
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.item img {
+  max-width: 100%;
 }
 /*# sourceMappingURL=index.css.map */
