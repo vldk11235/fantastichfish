@@ -6,8 +6,14 @@
 }
 
 .container {
-width: 90%;
-margin-left: 5%;
-margin-right: 5%;
+
+width: 1180px;
+margin-left: calc(50%-590px);
+margin-right: calc(50%-590px);
+
+
+// width: 90%;
+// margin-left: 5%;
+// margin-right: 5%;
 //--- костыль на пока
 }

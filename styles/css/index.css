@@ -3,7 +3,6 @@
 footer {
   background: #111;
   height: auto;
-  width: 100vw;
   font-family: Montserrat, sans-serif;
   padding-top: 40px;
   color: #fff;
@@ -73,7 +72,6 @@ footer {
 
 .footer-bottom {
   background: #000;
-  width: 100vw;
   padding: 20px 0;
   text-align: center;
 }
@@ -98,9 +96,9 @@ footer {
 }
 
 .container {
-  width: 90%;
-  margin-left: 5%;
-  margin-right: 5%;
+  width: 1180px;
+  margin-left: calc(50%-590px);
+  margin-right: calc(50%-590px);
 }
 
 .swiper {
