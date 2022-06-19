@@ -17,3 +17,21 @@ width: 1180px;
 // margin-right: 5%;
 //--- костыль на пока
 }
+
+// html { 
+//   scroll-behavior: smooth; 
+// }
+
+.global-wrapper{
+
+  overflow: scroll;
+  
+}
+
+.anchor {
+
+   display: block;
+    position: relative;
+    top: -40px;
+    visibility: hidden;
+}

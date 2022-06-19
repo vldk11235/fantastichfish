@@ -1,0 +1,72 @@
+
+.fish-list { 
+    
+    display: inline-block;
+    width: 100%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    position: relative;
+    .container{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 15px;
+        row-gap: 15px;
+
+    }
+   
+}
+
+.item img {
+max-height: 100%;
+    width: 100%;
+   box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+   transition: transform 0.25s;
+   overflow: hidden;
+   border-radius: 5px;
+}
+.item :hover img{
+
+    transform: scale(1.01);
+}
+
+.image_wrapper {
+width: 100%;
+    height: 220px;
+    // overflow-y: hidden;
+}
+.name {
+    line-height: 40px;
+    font-family: Montserrat, sans-serif;
+    
+}
+
+.fish_info {
+position: relative;
+font-family: Montserrat, sans-serif;
+}
+.price {
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    line-height: 15px;
+    font-weight: bold;
+    font-family: Montserrat, sans-serif;
+}
+.description {
+    font-size: 14px;
+    font-family: Montserrat, sans-serif;
+    
+}
+// .item {
+//     overflow: hidden;
+// }
+
+h1 {
+text-align: center;
+padding-top: 90px;
+padding-bottom: 0px;
+padding-left: 10%;
+padding-right: 10%;
+font-family: Montserrat, sans-serif;
+
+}

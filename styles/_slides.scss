@@ -6,17 +6,28 @@
 
     
 .slide1 {
-
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppjyCZSuDBvzCAPoezd3esNk15kSkDZCXeQ&usqp=CAU');
+// p{
+//   position: absolute;
+//   z-index:100;
+// }
+    background-image: url('../images/swiper_1.jpg');
    
 }
 .slide2 {
- background-image: url('https://image.cnbcfm.com/api/v1/image/105473010-1537987843171fish.jpg?v=1537988203');
+ background-image: url('../images/swiper_2.jpg');
+//  p{
+//   position: absolute;
+//   z-index:100;
+// }
 }
 
 .slide3 {
-background-image: url('https://images.thefishsite.com/fish/legacy/files/AdobeStock_24063054.jpeg');
+background-image: url('../images/swiper_3.jpg');
 
+}
+.slide4 {
+
+  background-image: url('../images/swiper_4.jpg');
 }
 
 .swiper-slide{

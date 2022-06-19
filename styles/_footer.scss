@@ -1,5 +1,7 @@
 footer {
-    background: #111;
+    // background: #111;
+  background-color: #383c61;
+
     height: auto;
     // width: 100vw;
     font-family: Montserrat, sans-serif;
@@ -55,7 +57,8 @@ margin: 0 10px;
 }
 .footer-bottom {
 
-    background: #000;
+    background-color: rgb(33, 31, 31);
+    // opacity: 0.6;
     // width: 100vw;
     padding: 20px 0;
     text-align: center;

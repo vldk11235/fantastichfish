@@ -1,688 +1,134 @@
-[ { 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
+[{
+    "name": "Kabeljau",
+    "description": "Verpackung 10 kg",
+    "price": "5.20 €",
     "photo": "Picture 1.jpg"
-      
-    
   },
- 
-   {
-
-
-     "name": "Форель",
-     "description": "Позиция отпускается от 10 кг",
-     "price": "3.50 €",
-     "photo": "Picture 1.jpg"
-
-
-   }, {
-
-
-     "name": "Форель",
-     "description": "Позиция отпускается от 10 кг",
-     "price": "3.50 €",
-     "photo": "Picture 1.jpg"
-
-
-   },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-
-
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  },{ 
- 
- 
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
-    "photo": "Picture 1.jpg"
-      
-    
-  }, {
-
-
-    "name": "Форель",
-    "description": "Позиция отпускается от 10 кг",
-    "price": "3.50 €",
+  {
+    "name": "Seeteufelschwänze o. Bauch ",
+    "description": "Verpackung 10 kg",
+    "price": "15.95 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Schellfisch o.k",
+    "description": "Verpackung 10 kg",
+    "price": "3.80 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Kammmuschelfleisch Japan MSC ",
+    "description": "Verpackung 5 kg",
+    "price": "26.50 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Hering rund",
+    "description": "Verpackung 10 kg",
+    "price": "2.60 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Dorade Royal Filet mit Haut 100 – 140 G ",
+    "description": "Verpackung 3 kg",
+    "price": "11.90 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Wolfbarsch Filet mit Haut 100 – 140 G ",
+    "description": "Verpackung 3 kg",
+    "price": "13.30 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Dorade Royal/Goldbrasse",
+    "description": "Verpackung 6 kg",
+    "price": "5.30 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Wolfbarsch/Loup de Mer ",
+    "description": "Verpackung 6 kg",
+    "price": "6.20 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Norweger Lachs FILET Trim mit Haut",
+    "description": "Verpackung 10 stück",
+    "price": "23.95 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Norweger Lachs Superior  ",
+    "description": "Verpackung 10 stück",
+    "price": "13.95 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "BIO Lachs FILET vac ca 1.5 KG ",
+    "description": "Verpackung 10 stück",
+    "price": "19.95 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "WELSFILET OHNE HAUT ca.200g ",
+    "description": "Verpackung 3 kg",
+    "price": "9.50 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Victoriabarsch Fil o haut ca 300g ",
+    "description": "Verpackung 6 kg",
+    "price": "3.50 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Schollenfillet MWH/ Ohne haut",
+    "description": "Verpackung 5 kg",
+    "price": "15.95 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Zanderfilet 300-500g mit Haut/ohne Haut",
+    "description": "Verpackung 3 kg",
+    "price": "17.80 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Kabeljaufilet",
+    "description": "Verpackung 3/5 kg",
+    "price": "10.60 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Kabeljauloins",
+    "description": "Verpackung 5 kg",
+    "price": "14.60 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "MSC Scottisches/Dänisches Seelachsfilet",
+    "description": "Verpackung 10/5 kg",
+    "price": "7.60 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Scottisches Katfischfilet",
+    "description": "Verpackung 5 kg",
+    "price": "8.80 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "MSC Rotbarschfilet 120g+/150g+ ",
+    "description": "Verpackung 3 kg",
+    "price": "8.60 €",
+    "photo": "Picture 1.jpg"
+  },
+  {
+    "name": "Thunfisch Sashimi Standard A+/AA+/AAA+ (KG)",
+    "description": "Verpackung p kg",
+    "price": "19-32 €",
     "photo": "Picture 1.jpg"
-
-
   }
+
 ]

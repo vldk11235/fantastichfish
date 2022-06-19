@@ -9,6 +9,11 @@ new Swiper('.swiper', {
   //   invert: true,
     
   // },
+  autoplay: {
+    disableOnInteraction: false,
+    pauseOnMouseEnter: false,
+    dealy: 1,
+  },
   
  
 
