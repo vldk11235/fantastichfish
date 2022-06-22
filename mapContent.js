@@ -1,4 +1,4 @@
-import pricelist from './pricelist.json' assert {type: 'json'};
+import pricelist from './Pricelist.json' assert {type: 'json'};
 
 let divContent = document.getElementById('content');
 
