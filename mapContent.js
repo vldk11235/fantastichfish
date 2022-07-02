@@ -13,7 +13,8 @@ pricelist.map(({
     photo
 }) => {
     let newDiv = document.createElement("div");
-    newDiv.innerHTML = "<div class='item'> <div class = 'image_wrapper'><img src = 'images2\\"+photo+"'></div><div class = 'fish_info'><p class = 'name'>"+name+"</p><p class = 'price'>"+price+"</p> <p class = 'description'>"+description+"</p> </div> </div> ";
+    newDiv.classList.add("item");
+    newDiv.innerHTML = "<div class = 'image_wrapper'><img src = 'images2\\"+photo+"'></div><div class = 'fish_info'><p class = 'name'>"+name+"</p><p class = 'price'>"+price+"</p> <p class = 'description'>"+description+"</p> </div>";
 
 
     divContent.appendChild(newDiv)
