@@ -6,7 +6,7 @@ let divContent = document.getElementById('content');
 
 
 
-pricelist.map(({
+window.onload = pricelist.map(({
     name,
     description,
     price,

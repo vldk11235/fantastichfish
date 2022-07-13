@@ -34,3 +34,17 @@ img{vertical-align: top;}
         width: calc(100vw - 40px);
     }
 }
+
+// @include media("mobile"){
+
+//     body {
+//         padding-top: 50px; 
+//     }
+// }
+// html, body {
+//   margin: 0;
+//   height: 100%;
+//   position: relative;
+// }
+html {
+     viewport-fit: auto !important;}
