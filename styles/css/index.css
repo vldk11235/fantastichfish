@@ -78,10 +78,6 @@ img {
   }
 }
 
-html {
-  viewport-fit: auto !important;
-}
-
 header {
   position: fixed;
   z-index: 3;
@@ -164,9 +160,9 @@ header .container button:hover {
     background-color: #383c61;
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #edf0f1;
-    height: 7vh;
-    max-height: 7vh;
-    min-height: 7vh;
+    height: 50px;
+    max-height: 50px;
+    min-height: 50px;
     padding: 1em;
     margin: 0;
     width: 100%;

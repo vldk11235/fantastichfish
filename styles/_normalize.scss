@@ -16,7 +16,9 @@ img{vertical-align: top;}
 // h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 /*--------------------*/
 
-
+// img { 
+//     width: 20px !important;
+// }
 .anchor {
    display: block;
     position: relative;
@@ -46,5 +48,5 @@ img{vertical-align: top;}
 //   height: 100%;
 //   position: relative;
 // }
-html {
-     viewport-fit: auto !important;}
+// html {
+//      viewport-fit: auto !important;}
