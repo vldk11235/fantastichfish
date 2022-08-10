@@ -1,62 +1,233 @@
-footer {
-  background-color: $mainColor;
-  height: auto;
-  font-family: Montserrat, sans-serif;
-  padding-top: 40px;
-  color: $whiteTextColor;
-  .footer-content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-    h3 {
-      font-size: 1.8rem;
-      font-weight: 400;
-      text-transform: capitalize;
-      line-height: 3rem;
+@include media("mobile") {
+  footer {
+    background-color: $mainColor;
+    height: auto;
+    font-family: Montserrat, sans-serif;
+    padding-top: 40px;
+    color: $whiteTextColor;
+    .footer-content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      text-align: center;
+      h3 {
+        font-size: 1.8rem;
+        font-weight: 400;
+        text-transform: capitalize;
+        line-height: 3rem;
+      }
+      p {
+        max-width: 500px;
+        margin: 10px auto;
+        line-height: 28px;
+        font-size: 14px;
+      }
+      a {
+        line-height: 30px;
+        margin: 0 10px;
+        text-decoration: none;
+        color: $whiteTextColor;
+      }
     }
-    p {
-      max-width: 500px;
-      margin: 10px auto;
-      line-height: 28px;
-      font-size: 14px;
+    .container {
+      list-style: none;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+      flex-direction: column;
+      margin: 10px 10px 20px 10px;
+      a i {
+        font-size: 1.4rem;
+      }
+      a:hover i {
+        color: $textHoverColor;
+      }
+
+      // Узнать, как работает свойство hover в данному случае
+    }
+    .footer-bottom {
+      background-color: $footerBottomColor;
+      padding: 20px 0;
+      text-align: center;
+      a {
+        text-decoration: none;
+        color: $whiteTextColor;
+      }
+      p {
+        font-size: 14px;
+        word-spacing: 2px;
+        text-transform: capitalize;
+      }
+      .linkedIn {
+        text-transform: uppercase;
+        opacity: 0.4;
+        font-weight: 200;
+        &:hover {
+          color: $whiteTextColor;
+          opacity: 1;
+        }
+      }
+      .copyright,
+      .designedBy {
+        display: inline-block;
+        width: 100%;
+      }
     }
   }
-  .socials {
-    list-style: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 1rem 0 3rem 0;
-    li {
-      margin: 0 10px;
+}
+
+@include media("desktop") {
+  footer {
+    background-color: $mainColor;
+    height: auto;
+    font-family: Montserrat, sans-serif;
+    padding-top: 40px;
+    color: $whiteTextColor;
+    .footer-content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      text-align: center;
     }
-    a {
-      text-decoration: none;
-      color: $whiteTextColor;
+    .container {
+      list-style: none;
+      // display: flex;
+      // align-items: center;
+      // justify-content: center;
+      margin: 1rem 0 3rem 0;
+      h3 {
+        font-size: 25px;
+        font-weight: 400;
+        text-transform: capitalize;
+        line-height: 3rem;
+      }
+      p {
+        max-width: 500px;
+        margin: 10px auto;
+        line-height: 28px;
+        font-size: 18px;
+      }
+      li {
+        margin: 0 10px;
+      }
+      a {
+        font-size: 20px;
+        text-decoration: none;
+        color: $whiteTextColor;
+      }
+      a i {
+        font-size: 25px;
+      }
+      a:hover i {
+        color: $textHoverColor;
+      }
+      // Узнать, как работает свойство hover в данному случае
     }
-    a i {
-      font-size: 1.4rem;
+    .footer-bottom {
+      background-color: $footerBottomColor;
+      padding: 20px 0;
+      text-align: center;
+      a {
+        text-decoration: none;
+        color: $whiteTextColor;
+      }
+      p {
+        font-size: 14px;
+        word-spacing: 2px;
+        text-transform: capitalize;
+      }
+      .linkedIn {
+        text-transform: uppercase;
+        opacity: 0.4;
+        font-weight: 200;
+        &:hover {
+          color: $whiteTextColor;
+          opacity: 1;
+        }
+      }
     }
-    a:hover i {
-      color: $textHoverColor;
-    }
-    // Узнать, как работает свойство hover в данному случае
   }
-  .footer-bottom {
-    background-color: $footerBottomColor;
-    padding: 20px 0;
-    text-align: center;
-    p {
-      font-size: 14px;
-      word-spacing: 2px;
-      text-transform: capitalize;
+}
+
+@include media("tablet") {
+  footer {
+    background-color: $mainColor;
+    height: auto;
+    font-family: Montserrat, sans-serif;
+    padding-top: 40px;
+    color: $whiteTextColor;
+    .footer-content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      text-align: center;
+      h3 {
+        font-size: 1.8rem;
+        font-weight: 400;
+        text-transform: capitalize;
+        line-height: 3rem;
+      }
+      p {
+        max-width: 500px;
+        margin: 10px auto;
+        line-height: 28px;
+        font-size: 14px;
+      }
+      a {
+        line-height: 30px;
+        margin: 0 10px;
+        text-decoration: none;
+        color: $whiteTextColor;
+      }
     }
-    span {
-      text-transform: uppercase;
-      opacity: 0.4;
-      font-weight: 200;
+    .container {
+      list-style: none;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+      flex-direction: column;
+      margin: 10px 10px 20px 10px;
+      a i {
+        font-size: 1.4rem;
+      }
+      a:hover i {
+        color: $textHoverColor;
+      }
+
+      // Узнать, как работает свойство hover в данному случае
+    }
+    .footer-bottom {
+      background-color: $footerBottomColor;
+      padding: 20px 0;
+      text-align: center;
+      a {
+        text-decoration: none;
+        color: $whiteTextColor;
+      }
+      p {
+        font-size: 14px;
+        word-spacing: 2px;
+        text-transform: capitalize;
+      }
+      .linkedIn {
+        text-transform: uppercase;
+        opacity: 0.4;
+        font-weight: 200;
+        &:hover {
+          color: $whiteTextColor;
+          opacity: 1;
+        }
+      }
+      .copyright,
+      .designedBy {
+        display: inline-block;
+        width: 100%;
+      }
     }
   }
 }

@@ -1,8 +1,10 @@
 .swiper {
   @include media("mobile") {
     height: 50vh;
-    
   }
+  // @include media("tablet") {
+  //   height: 50vh;
+  // }
   width: auto;
   height: 100vh;
 
@@ -35,6 +37,7 @@
       justify-content: center;
       align-items: center;
     }
+   
 
     background-position: center;
     background-size: cover;
@@ -45,10 +48,9 @@
       display: none;
     }
     .content {
-      // @include media("mobile") {
-      //   padding-left: 2%;
-      //   padding-right: 2%;
-      // }
+      @include media("mobile") {
+        top: 25%;
+      }
       font-family: Montserrat;
       position: absolute;
       top: 40%;

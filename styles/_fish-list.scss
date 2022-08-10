@@ -13,14 +13,22 @@
   h1 {
     text-align: center;
     padding-top: 45px;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     padding-left: 10%;
     padding-right: 10%;
     font-family: Montserrat, sans-serif;
     font-size: 25px;
     font-weight: bold;
+    margin-bottom: 15px;
   }
   .container {
+    @include media("tablet") {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      column-gap: 70px;
+      row-gap: 50px;
+    }
+
     @include media("desktop") {
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
@@ -31,7 +39,9 @@
     .item {
       @include media("mobile") {
         width: 100%;
-        padding-top: 3%;
+        margin-bottom: 55px;
+        // padding-top: 70px;
+        // padding-top: 3%;
         // margin-left: 5%;
       }
 
@@ -44,6 +54,7 @@
         transition: transform 0.25s;
         overflow: hidden;
         border-radius: 5px;
+        // margin-bottom: 50px;
       }
       &:hover img {
         transform: scale(1.01);
@@ -54,24 +65,32 @@
         // overflow-y: hidden;
       }
       .fish_info {
+        margin-top: 10px;
         position: relative;
         font-family: Montserrat, sans-serif;
         .name {
-          line-height: 40px;
+          text-align: center;
+          line-height: 30px;
           font-family: Montserrat, sans-serif;
+          font-size: 16px;
+          margin-bottom: 5px;
         }
 
         .price {
-          position: absolute;
-          bottom: 0;
-          right: 0;
+          // position: absolute;
+          text-align: center;
+          // bottom: 0;
+          // right: 0;
           line-height: 15px;
+          font-size: 24px;
           font-weight: bold;
           font-family: Montserrat, sans-serif;
         }
         .description {
-          font-size: 14px;
+          text-align: center;
+          font-size: 10px;
           font-family: Montserrat, sans-serif;
+          line-height: 25px;
         }
       }
     }
